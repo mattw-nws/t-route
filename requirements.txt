@@ -1,5 +1,5 @@
 numpy
-Cython
+Cython<=0.29.28
 pandas>=1.1.5
 geopandas
 xarray
